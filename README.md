@@ -8,3 +8,6 @@ Dashboards are an essential tool for any business with plans to increase revenue
 Without a sales dashboard, you’re left to analyze large amounts of data on your own.
 We can also track the performance of our team by looking into the sales dashboard and it will help company to
 take some decision that makes an impact on business in positive way.
+
+![Sales Insights Dashboard](https://user-images.githubusercontent.com/62171308/205639271-54844d57-6c7b-4d45-906f-8456b7b7b723.jpg)
+
